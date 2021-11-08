@@ -7,3 +7,5 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+contract_address=0x1C9c68fc18Ad853d12748794b060Dc7924710Cc7
