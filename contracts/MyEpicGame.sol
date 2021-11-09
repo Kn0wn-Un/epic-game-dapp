@@ -251,6 +251,10 @@ contract MyEpicGame is ERC721 {
         }
     }
 
+    function getBigBoss() public view returns (BigBoss memory) {
+        return bigBoss;
+    }
+
     function getAllDefaultCharacters()
         public
         view
