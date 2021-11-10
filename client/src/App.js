@@ -172,7 +172,7 @@ const App = () => {
 			<div className="container">
 				<div className="header-container">
 					<p className="header gradient-text">⚔️ Memeverse Wars! ⚔️</p>
-					<p className="sub-text">Team up to protect the Metaverse!</p>
+					<p className="sub-text">Team up to protect the Memeverse!</p>
 					<div className="connect-wallet-container">{renderContent()}</div>
 				</div>
 				<div className="footer-container">
