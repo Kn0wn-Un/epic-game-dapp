@@ -5,7 +5,7 @@ together with other players try to defeat a main boss 😱
 
 This project was built with [buildspace](https://github.com/buildspace) <3
 
-### [Live Demo]()
+### [Live Demo](https://kn0wn-un.github.io/epic-game-dapp/)
 
 ### Homepage
 
